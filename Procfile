@@ -1,1 +1,1 @@
-web: gunicorn main:app
+web: gunicorn Day-69.main:app
